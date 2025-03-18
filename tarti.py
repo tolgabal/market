@@ -1,0 +1,1 @@
+class tarti:        def __init__(self, kg=0, adet=0):        self        self.kg = kg        self.adet = adet            def kg(self):        print(self.kg)            def adet(self):        print(self.adet)
