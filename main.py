@@ -1,0 +1,1 @@
+from akilli_kasa import AkilliKasaislem = input("Yapılacak islem (0:satış 1:iade): ")urun = input("Ürün: ")odeme = input("Ödeme Türü(0:nakit 1:kart)")tutar = input("Tutar: ")miktar = input("Ürün Miktarı: ")miktarTuru = input("Miktar Türü (kg,adet): ")yapilanIslem = AkilliKasa(islem,urun,odeme,tutar,miktar,miktarTuru)
