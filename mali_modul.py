@@ -1,0 +1,1 @@
+class MaliModul:    def __init__(self):        self        def kar_zarar():        print("Güncel mali durum: -5000 TL")
